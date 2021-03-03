@@ -2,12 +2,11 @@
 <CodeLite_Workspace Name="SymCrypter" Database="" Version="10000">
   <Project Name="DENcrypt" Path="DENcrypt/DENcrypt.project" Active="Yes"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug" Selected="no">
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
-      <Project Name="SymCrypter" ConfigName="Debug"/>
       <Project Name="DENcrypt" ConfigName="Debug"/>
     </WorkspaceConfiguration>
-    <WorkspaceConfiguration Name="Release" Selected="yes">
+    <WorkspaceConfiguration Name="Release" Selected="no">
       <Environment/>
       <Project Name="DENcrypt" ConfigName="Release"/>
     </WorkspaceConfiguration>

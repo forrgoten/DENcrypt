@@ -8,6 +8,7 @@ using namespace std;
 void encruptor();
  
 void decryptor();
+
  
 int main()
 {
@@ -106,6 +107,7 @@ void encruptor(){
 }
  
 void decryptor(){
+    
     string resstr = "";
     
     string text = "";
@@ -172,3 +174,20 @@ void decryptor(){
     
     cout << "Your result is:" + resstr + "\n";//show result
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

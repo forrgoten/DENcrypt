@@ -1,2 +1,1 @@
 -I/run/media/username/LocalD/Projects/DENcrypt/DENcrypt
--DNDEBUG
